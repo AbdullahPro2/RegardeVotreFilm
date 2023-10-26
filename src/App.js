@@ -75,6 +75,11 @@ function App() {
       <Element name="footer">
         <Footer />
       </Element>
+
+      <p>
+        THisn is just a practing puppose paragrAGH WILL BE REAMOVEDS AND ASDIAJ
+        AI UFAJSIOFDJAS FAOFNASO BONKOUR COMMEENT ALLEZ BOUIS. JE VAIS BIEN!
+      </p>
     </div>
   );
 }
