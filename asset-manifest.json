@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/RegardeVotreFilm/static/css/main.c70740a1.css",
-    "main.js": "/RegardeVotreFilm/static/js/main.171a7b0b.js",
+    "main.js": "/RegardeVotreFilm/static/js/main.0295749f.js",
     "static/media/logo.png": "/RegardeVotreFilm/static/media/logo.de1c8355dcb314227f6c.png",
     "index.html": "/RegardeVotreFilm/index.html",
     "main.c70740a1.css.map": "/RegardeVotreFilm/static/css/main.c70740a1.css.map",
-    "main.171a7b0b.js.map": "/RegardeVotreFilm/static/js/main.171a7b0b.js.map"
+    "main.0295749f.js.map": "/RegardeVotreFilm/static/js/main.0295749f.js.map"
   },
   "entrypoints": [
     "static/css/main.c70740a1.css",
-    "static/js/main.171a7b0b.js"
+    "static/js/main.0295749f.js"
   ]
 }
