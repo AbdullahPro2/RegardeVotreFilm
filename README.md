@@ -1,5 +1,5 @@
 
-The project is live at [RegardeVotreFilm] (https://abdullahpro2.github.io/RegardeVotreFilm/)
+The project is live at [RegardeVotreFilm](https://abdullahpro2.github.io/RegardeVotreFilm/).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
